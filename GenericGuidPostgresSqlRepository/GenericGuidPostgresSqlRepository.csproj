@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>GenericGuidPostgresSqlRepository</RootNamespace>
+        
+        <PackageId>GenericGuidPostgresSqlRepository</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Abu Salah</Authors>
+        <PackageProjectUrl>https://github.com/your-repo-url</PackageProjectUrl>
+        <PackageTags>EntityFrameworkCore;PostgreSQL;Repository</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Sakiena.Domain\Sakiena.Domain.csproj" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+        <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+    </ItemGroup>
+    
+    
+</Project>
