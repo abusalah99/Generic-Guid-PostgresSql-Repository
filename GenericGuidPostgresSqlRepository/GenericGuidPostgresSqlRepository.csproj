@@ -9,8 +9,9 @@
         <PackageId>GenericGuidPostgresSqlRepository</PackageId>
         <Version>1.0.0</Version>
         <Authors>Abu Salah</Authors>
-        <PackageProjectUrl>https://github.com/your-repo-url</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/abusalah99/Generic-Guid-PostgresSql-Repository</PackageProjectUrl>
         <PackageTags>EntityFrameworkCore;PostgreSQL;Repository</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>

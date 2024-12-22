@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abu Salah")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4eebe5cfd0d320ac3b80bc184c8a905990f64658")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericGuidPostgresSqlRepository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericGuidPostgresSqlRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
