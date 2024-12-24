@@ -25,11 +25,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj": {
-                "projectPath": "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "ScrZBXtNn9U=",
-  "success": false,
+  "dgSpecHash": "+/rDs6I+YE8=",
+  "success": true,
   "projectFilePath": "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/GenericGuidPostgresSqlRepository/GenericGuidPostgresSqlRepository.csproj",
   "expectedPackageFiles": [
     "/home/abu_salah/.nuget/packages/microsoft.entityframeworkcore/8.0.6/microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
@@ -20,15 +20,5 @@
     "/home/abu_salah/.nuget/packages/npgsql/8.0.3/npgsql.8.0.3.nupkg.sha512",
     "/home/abu_salah/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.4/npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project '/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

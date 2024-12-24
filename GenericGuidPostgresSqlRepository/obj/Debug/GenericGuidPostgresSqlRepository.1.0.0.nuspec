@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GenericGuidPostgresSqlRepository</id>
+    <version>1.0.0</version>
+    <authors>Abu Salah</authors>
+    <projectUrl>https://github.com/abusalah99/Generic-Guid-PostgresSql-Repository</projectUrl>
+    <description>Package Description</description>
+    <tags>EntityFrameworkCore PostgreSQL Repository</tags>
+    <repository type="git" commit="64c2b328f1c57a2ac7a733df3f0ff70d14e73ae5" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.6" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="8.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/GenericGuidPostgresSqlRepository/bin/Debug/net8.0/GenericGuidPostgresSqlRepository.dll" target="lib/net8.0/GenericGuidPostgresSqlRepository.dll" />
+  </files>
+</package>

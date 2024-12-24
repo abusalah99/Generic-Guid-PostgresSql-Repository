@@ -12,10 +12,11 @@
         <PackageProjectUrl>https://github.com/abusalah99/Generic-Guid-PostgresSql-Repository</PackageProjectUrl>
         <PackageTags>EntityFrameworkCore;PostgreSQL;Repository</PackageTags>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <FileVersion>1.0.0.0</FileVersion>
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\Sakiena.Domain\Sakiena.Domain.csproj" />
         <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
         <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
     </ItemGroup>

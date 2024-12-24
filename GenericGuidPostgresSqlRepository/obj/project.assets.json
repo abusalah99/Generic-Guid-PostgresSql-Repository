@@ -711,7 +711,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj",
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 8.0.4"
     ]
@@ -740,11 +739,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj": {
-              "projectPath": "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -785,16 +780,5 @@
         "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project '/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "/home/abu_salah/RiderProjects/GenericPostgresSqlRepository/Sakiena.Domain/Sakiena.Domain.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }
